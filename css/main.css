@@ -1,0 +1,11 @@
+canvas {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.stage {  
+    position: absolute; 
+    left: 50%; 
+    top: 50%;  
+    transform: translate3d( -50%, -50%, 0 );
+}

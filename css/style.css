@@ -1,0 +1,28 @@
+img {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    margin: 10px 0 20px;
+    text-align: center;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.text {
+    background-color: lightgreen;
+    border-radius: 20px;
+    border: 5px sold seagreen;
+    padding: 20px;
+    margin: 30px auto 30px;
+}
