@@ -25,3 +25,10 @@ Ghosts are small and quick enemies that spawn off screen and dash directly at th
 
 ### Auras
 Auras are static enemies that only damage you if you collide with them. They spawn at around the same level as the platforms spawn and they move with the stage, making them a nuisance that has to be dealt with. They have large health pools and warp bullets that pass by them with their intense gravity. Their health scales with the game time.
+
+---
+
+## Resources
+
+### PIXI JS Library
+[Link to Library](https://pixijs.com)
